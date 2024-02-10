@@ -1,0 +1,29 @@
+body{
+    background-color: #131313;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: #c0c0c0;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.U26fgb JRtysb WzwrXb toPPGe owShtf{
+    display: none;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10%;
+    background-color: #1a1a1a;
+    color: #c0c0c0;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
